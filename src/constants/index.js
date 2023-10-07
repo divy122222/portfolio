@@ -96,7 +96,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2023 - September 2023",
     points: [
-      "Developed scripts in Python to automate the process.",
+      "Developed scripts in Python to automate the process of decommissioning of storage.",
       "Worked closely with the infrastructure team to analyze the company’s IT infrastructure, including servers, networks, and cloud services."
     ],
   },
