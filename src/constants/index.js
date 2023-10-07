@@ -32,11 +32,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Application Developement",
+    title: "Application Development",
     icon: web,
   },
   {
-    title: "Web developement",
+    title: "Web development",
     icon: mobile,
   },
   {
