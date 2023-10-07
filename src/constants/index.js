@@ -172,6 +172,10 @@ const projects = [
         name: "MongoDB",
         color: "blue-text-gradient",
       },
+      {
+        name: "TypeScript",
+        color: "green-text-gradient",
+      },
     ],
     image: flutterapp,
     source_code_link: "https://github.com/divyanshu2410/Food_Ordering_app",
